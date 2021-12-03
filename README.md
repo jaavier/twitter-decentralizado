@@ -15,5 +15,6 @@ Please feel free to contribute sending your _Pull Request_
 # Installation
 
 - `git clone https://github.com/ethereumchile/twitter-decentralizado`
+- `cd twitter-descentralizado`
 - `yarn install`
 - `embark run`
