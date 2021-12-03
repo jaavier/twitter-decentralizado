@@ -1,4 +1,4 @@
-# Decentralized Social Network 2.0
+# Twitter Descentralizado - Solidity
 
 Basic functions to create a kind of Twitter but Decentralized.
 
