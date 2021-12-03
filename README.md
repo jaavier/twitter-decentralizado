@@ -4,9 +4,9 @@ Basic functions to create a kind of Twitter but Decentralized.
 
 # What's next?
 
-[*] I'll upload the UI to interact with this smart contract using Rinkeby.
-[*] I'll add function to allow update your nickname.
-[*] I'll add the posibility to create rooms with other members and post 'private' messages.
+- I'll upload the UI to interact with this smart contract using Rinkeby.
+- I'll add function to allow update your nickname.
+- I'll add the posibility to create rooms with other members and post 'private' messages.
 
 # Feedback?
 
